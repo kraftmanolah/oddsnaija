@@ -1,0 +1,20 @@
+.logo-text {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logo {
+        border-radius: 25px 25px 25px 25px;     
+}
+
+.loss {
+    color: red;
+}
+
+.foots {
+    color: white;
+}
+
+#top-row {
+    background-color: rgb(73, 113, 116);
+}
