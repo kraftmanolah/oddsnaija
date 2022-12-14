@@ -1,0 +1,2 @@
+# oddsnaija
+A prediction website
